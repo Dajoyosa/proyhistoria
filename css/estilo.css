@@ -1,0 +1,20 @@
+*{
+    margin: 20px;
+}
+body{
+    background-color: yellow;
+}
+h1{
+    color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h2{
+    color: aqua;
+}
+img{
+    width: 300px;
+    height: 180px;
+}
+p{
+    color: aquamarine;
+}
